@@ -1,0 +1,10 @@
+{
+    "name": "Health Tracker",
+    "short_name": "HealthTrack",
+    "description": "Track your health metrics and get personalized recommendations",
+    "start_url": "index.html",
+    "display": "standalone",
+    "background_color": "#f5f5f5",
+    "theme_color": "#4CAF50",
+    "orientation": "portrait"
+}
